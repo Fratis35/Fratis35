@@ -1,38 +1,38 @@
-## Olá! 👋 Adiante, você irá encontrar o README em outros idiomas!
+## Olá! 👋
+Adiante, você irá encontrar o README em outros idiomas!
 
 ### SOBRE MIM:
-- 💻 Estudante de **Engenharia de Computação** (ou seu curso atual)
-- 🧮 Focado em **Cálculo Numérico** e **Algoritmos**
-- 🌱 Sempre explorando **novas linguagens**
+- 💻 Estudante de **Engenharia da Computação**  
+- 🌱 Sempre explorando **novas linguagens**  
+  
 
 ### STATUS:
-<div> 
-  <img alt="Top Language" src="http://vercel.app"/> 
-  <img alt="Gabriel's GitHub Streak" height="160px" src="https://demolab.com" /> 
-</div>
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fratis35&theme=gotham"/>
 
-### TECNOLOGIAS:
+   <img alt="Gabriel's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=Fratis35&theme=gotham&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fratis35&layout=compact&langs_count=10&theme=omni&hide_border=true&card_width=500"/> -->
+
+### APRENDENDO: 
+
+<p> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,matlab)](https://skillicons.dev) 
+ 
+ </p>
+
+
+### FERRAMENTAS:      
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,arduino" />
   </a>
 </p>
 
-### FERRAMENTAS:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
+  
+<!--
 ### FALE COMIGO:
+[![My contact](https://skillicons.dev/icons?i=instagram)](https://instagram.com/)
 [![My contact](https://skillicons.dev/icons?i=gmail)](mailto:ciscocarvalhoss@gmail.com)
-[![My contact](https://skillicons.dev)](https://linkedin.com)
-
-### ✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):
-<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/READMEen.md)</kbd>
-<kbd>[<img title="Espanhol" alt="Espanhol" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-
-![Visitors](https://komarev.com)
