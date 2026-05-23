@@ -1,5 +1,4 @@
-## Olá! 👋
-Adiante, você irá encontrar o README em outros idiomas!
+## Olá!
 
 ### SOBRE MIM:
 - 💻 Estudante de **Engenharia da Computação**  
@@ -8,12 +7,19 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 ### STATUS:
 
-<div>
+
+
+
+<div align="center">
     <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fratis35&theme=gotham"/>
+<div>
+   <img alt="Fratis's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=Fratis35&theme=gotham&hide_border=true" /> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Fratis35&layout=compact&hide_border=true&theme=gotham" />
+  </a>
 
-   <img alt="Gabriel's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=Fratis35&theme=gotham&hide_border=true" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fratis35&layout=compact&langs_count=10&theme=omni&hide_border=true&card_width=500"/> -->
-
+<div align="left">
+  
 ### APRENDENDO: 
 
 <p> 
@@ -30,9 +36,3 @@ Adiante, você irá encontrar o README em outros idiomas!
     <img src="https://skillicons.dev/icons?i=git,vscode,idea,arduino" />
   </a>
 </p>
-
-  
-<!--
-### FALE COMIGO:
-[![My contact](https://skillicons.dev/icons?i=instagram)](https://instagram.com/)
-[![My contact](https://skillicons.dev/icons?i=gmail)](mailto:ciscocarvalhoss@gmail.com)
