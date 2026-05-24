@@ -15,7 +15,7 @@
 <div>
    <img alt="Fratis's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=Fratis35&theme=gotham&hide_border=true" /> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fratis35&layout=compact&langs_count=10&theme=gotham&hide_border=true&card_width=400" />
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fratis35&layout=compact&langs_count=10&theme=gotham&hide_border=true&card_width=375" />
 </a>
   
 
